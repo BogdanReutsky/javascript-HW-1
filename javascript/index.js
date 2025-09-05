@@ -1,12 +1,13 @@
-const age = "16";
-console.log(age);;
+const age = 16;
+console.log(age);
 const name = "Bogdan";
-console.log(name);;
-const isStudent = 1 > 0;
+console.log(name);
+const isStudent = true;
 console.log(isStudent);
 const myString = "EMPTY";
 console.log(myString);
-const myNumber = 12 + 10;
+let myNumber = 12;
+myNumber += 10;
 console.log(myNumber);
 let myNull = null;
 console.log(myNull);
